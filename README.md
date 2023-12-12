@@ -1,5 +1,5 @@
 # Learning-Based-Multi-Focus-Image-Fusion-From-Pairs-to-Stacks
-## ZJU-MFF
+## Download ZJU-MFF dataset
 Download 1：[Baidu](https://pan.baidu.com/s/1sZZujfT3Jg_xFhL2eiykmg?pwd=cite)
 
 Download 2：[蓝奏云](https://wwpb.lanzouu.com/iRMd01hnpuuh)
